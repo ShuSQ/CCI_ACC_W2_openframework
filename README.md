@@ -10,8 +10,7 @@ This is a simple openframework demo. The project references font files, shortcut
 
 *case 2*
 
-![](https://miro.medium.com/max/334/1*isyYMcjf500YxWlBntSnOA.gif)
-
+![](https://miro.medium.com/max/334/1*F28XqzoheZogHNomw2Lflw.gif)
 *case 3*
 
 **keyPressed:**
