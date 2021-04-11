@@ -2,16 +2,7 @@
 
 This is a simple openframework demo. The project references font files, shortcut key operations, and two addons: `ofxGui` and `ofxMaxim`, which can change the frequency through the GUI, keyboard shortcuts, and control the movement of wave by moving your mouse, it also supports the keyboard to play sounds.
 
-![](https://miro.medium.com/max/334/1*F28XqzoheZogHNomw2Lflw.gif)
-
-*case 1*
-
-![](https://miro.medium.com/max/334/1*_LpH4QH834KWqJs8TAeO1g.gif)
-
-*case 2*
-
-![](https://miro.medium.com/max/334/1*F28XqzoheZogHNomw2Lflw.gif)
-*case 3*
+![](https://miro.medium.com/max/700/1*DlWXAV6LfzNcIyYXW9awuA.gif)
 
 **keyPressed:**
 
