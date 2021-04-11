@@ -217,5 +217,5 @@ void ofApp::keyPressed(int key){
 
 The following is a demo video case, the file can be cloned from my github:
 
-https://youtu.be/CAi0WaeSEC8
-
+YouTube: https://youtu.be/CAi0WaeSEC8
+Github:  https://github.com/ShuSQ/CCI_ACC_W2_openframework
