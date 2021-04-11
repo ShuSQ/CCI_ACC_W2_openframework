@@ -5,6 +5,11 @@ This is a simple openframework demo. The project references font files, shortcut
 
 ![](https://miro.medium.com/max/700/1*2sFuI4yEf7hKqXEYTdGlvA.gif)
 
+The following is a demo video case, and code can be cloned from my github:
+
+YouTube: https://youtu.be/CAi0WaeSEC8
+Github:  https://github.com/ShuSQ/CCI_ACC_W2_openframework
+
 **keyPressed:**
 
 'h' -> myFreq = 3141;
@@ -206,7 +211,3 @@ void ofApp::keyPressed(int key){
 }
 ```
 
-The following is a demo video case, the file can be cloned from my github:
-
-YouTube: https://youtu.be/CAi0WaeSEC8
-Github:  https://github.com/ShuSQ/CCI_ACC_W2_openframework
