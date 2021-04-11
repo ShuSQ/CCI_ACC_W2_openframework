@@ -1,5 +1,5 @@
 
-# openframework demo: ofxGui and ofxMaxim
+# Openframework Demo: ofxGui and ofxMaxim
 
 This is a simple openframework demo. The project references font files, shortcut key operations, and two addons: `ofxGui` and `ofxMaxim`, which can change the frequency through the GUI, keyboard shortcuts, and control the movement of wave by moving your mouse, it also supports the keyboard to play sounds.
 
